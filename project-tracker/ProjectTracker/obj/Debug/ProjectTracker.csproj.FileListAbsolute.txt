@@ -1,0 +1,20 @@
+P:\ProjectTracker\ProjectTracker\bin\Debug\ProjectTracker.exe.config
+P:\ProjectTracker\ProjectTracker\bin\Debug\ProjectTracker.exe
+P:\ProjectTracker\ProjectTracker\bin\Debug\ProjectTracker.pdb
+P:\ProjectTracker\ProjectTracker\obj\Debug\ProjectTracker.csprojAssemblyReference.cache
+P:\ProjectTracker\ProjectTracker\obj\Debug\ProjectTracker.Properties.Resources.resources
+P:\ProjectTracker\ProjectTracker\obj\Debug\ProjectTracker.csproj.GenerateResource.cache
+P:\ProjectTracker\ProjectTracker\obj\Debug\ProjectTracker.csproj.CoreCompileInputs.cache
+P:\ProjectTracker\ProjectTracker\obj\Debug\ProjectTracker.exe
+P:\ProjectTracker\ProjectTracker\obj\Debug\ProjectTracker.pdb
+P:\ProjectTracker\ProjectTracker\obj\Debug\ProjectTracker.MainForm.resources
+P:\ProjectTracker\Project Tracker\ProjectTracker\bin\Debug\ProjectTracker.exe.config
+P:\ProjectTracker\Project Tracker\ProjectTracker\bin\Debug\ProjectTracker.exe
+P:\ProjectTracker\Project Tracker\ProjectTracker\bin\Debug\ProjectTracker.pdb
+P:\ProjectTracker\Project Tracker\ProjectTracker\obj\Debug\ProjectTracker.csprojAssemblyReference.cache
+P:\ProjectTracker\Project Tracker\ProjectTracker\obj\Debug\ProjectTracker.MainForm.resources
+P:\ProjectTracker\Project Tracker\ProjectTracker\obj\Debug\ProjectTracker.Properties.Resources.resources
+P:\ProjectTracker\Project Tracker\ProjectTracker\obj\Debug\ProjectTracker.csproj.GenerateResource.cache
+P:\ProjectTracker\Project Tracker\ProjectTracker\obj\Debug\ProjectTracker.csproj.CoreCompileInputs.cache
+P:\ProjectTracker\Project Tracker\ProjectTracker\obj\Debug\ProjectTracker.exe
+P:\ProjectTracker\Project Tracker\ProjectTracker\obj\Debug\ProjectTracker.pdb
